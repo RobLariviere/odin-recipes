@@ -1,0 +1,16 @@
+/* CSS FOR RECIPE WEBSITE */
+
+.responsive {
+    width:100%;
+    max-width:400px;
+    height:auto;
+}
+
+.headers {
+    color:orange;
+    text-weight:bold;
+}
+
+.ctitles {
+    text-align:center;
+}
